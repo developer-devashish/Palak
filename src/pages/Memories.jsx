@@ -57,7 +57,7 @@ export default function Memories() {
         </span>
 
         <h1>
-          A Gallery of <span>My Bestie</span>
+          A Gallery of <span>My Beautiful Girl</span>
         </h1>
 
         <p>
